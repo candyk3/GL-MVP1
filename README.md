@@ -8,6 +8,8 @@ This project utilizes Meta's Segment Anything Model to perform image segmentatio
 ## FEATURES
 
 - Load and preprocess an image in HWC format.
+![image](https://github.com/user-attachments/assets/b0987a9c-f893-4b4b-b326-187968e52646)
+
 - Generate a segmentation mask for a user-selected point.
 - Extract boundary coordinates of the mask using OpenCV.
 - Visualize the mask boundaries on the original image with Matplotlib.
